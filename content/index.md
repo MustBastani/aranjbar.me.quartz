@@ -7,6 +7,8 @@ My name is Ali Ranjbar. I am a fourth-year Ph.D. candidate in the <u>Sy</u>stem
 My research interests include vulnerability discovery, fuzz testing, program analysis, and operating systems, with a particular emphasis on embedded systems security.
 
 ## News
+**[June '25]** Acknowledged in Google's Android security acknowledgements for disclosing [CVE-2025-26785](https://source.android.com/docs/security/overview/acknowledgements?authuser=1#june-2025); awarded a bounty for the report.
+
 **[May '25]** ["Uncovering 'NASty' 5G Baseband Vulnerabilities through Dependency-Aware Fuzzing"](https://www.blackhat.com/us-25/briefings/schedule/#uncovering-nasty-5g-baseband-vulnerabilities-through-dependency-aware-fuzzing-46485) has been accepted to Black Hat USA 2025.
 
 **[May '25]** Acknowledged in Samsung's Product Security Update Bulletins for disclosing [CVE-2025-26784](https://semiconductor.samsung.com/content/semiconductor/global/support/quality-support/product-security-updates/cve-2025-26784/), [CVE-2025-26785](https://semiconductor.samsung.com/content/semiconductor/global/support/quality-support/product-security-updates/cve-2025-26785/), and [CVE-2025-27891](https://semiconductor.samsung.com/content/semiconductor/global/support/quality-support/product-security-updates/cve-2025-27891/); awarded a bounty for the reports.
