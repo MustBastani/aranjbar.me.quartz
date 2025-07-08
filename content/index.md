@@ -7,6 +7,8 @@ My name is Ali Ranjbar. I am a fourth-year Ph.D. candidate in the <u>Sy</u>stem
 My research interests include vulnerability discovery, fuzz testing, program analysis, and operating systems, with a particular emphasis on embedded systems security.
 
 ## News
+**[July '25]** ["Open RAN, Open Risk: Uncovering Threats and Exposing Vulnerabilities in Next-Gen Cellular RAN"](https://www.blackhat.com/us-25/briefings/schedule/index.html#open-ran-open-risk-uncovering-threats-and-exposing-vulnerabilities-in-next-gen-cellular-ran-46100) has been accepted to Black Hat USA 2025.
+
 **[June '25]** Acknowledged in Google's Android security acknowledgements for disclosing [CVE-2025-26785](https://source.android.com/docs/security/overview/acknowledgements?authuser=1#june-2025); awarded a bounty for the report.
 
 **[May '25]** ["Uncovering 'NASty' 5G Baseband Vulnerabilities through Dependency-Aware Fuzzing"](https://www.blackhat.com/us-25/briefings/schedule/#uncovering-nasty-5g-baseband-vulnerabilities-through-dependency-aware-fuzzing-46485) has been accepted to Black Hat USA 2025.
