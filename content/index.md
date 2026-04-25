@@ -7,7 +7,7 @@ My name is Ali Ranjbar. I am a fourth-year Ph.D. candidate in the <u>Sy</u>stem
 My research interests include vulnerability discovery, fuzz testing, program analysis, and operating systems, with a particular emphasis on embedded systems security.
 
 ## News
-**[March '26]** "Invariant-Guided Logical Testing of Open RAN Controllers" has been accepted to the 35th USENIX Security Symposium.
+**[March '26]** ["Invariant-Guided Logical Testing of Open RAN Controllers"](https://www.usenix.org/conference/usenixsecurity26/presentation/yang-tianchang) has been accepted to the 35th USENIX Security Symposium.
 
 **[January '26]** Started my internship at Tesla as a Product Security Engineering Intern.
 
