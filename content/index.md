@@ -2,11 +2,15 @@
 title: Hi, I'm Ali.
 date: 2025-05-25
 ---
-My name is Ali Ranjbar. I am a fourth-year Ph.D. candidate in the <u>Sy</u>stems and <u>N</u>etwork <u>Sec</u>urity [(SyNSec)](https://synsec-den.github.io/) Research Group at Penn State University. I'm working as a graduate research assistant with Dr. [Syed Rafiul Hussain](https://syed-rafiul-hussain.github.io/).
+My name is Ali Ranjbar. I am a fifth-year Ph.D. candidate in the <u>Sy</u>stems and <u>N</u>etwork <u>Sec</u>urity [(SyNSec)](https://synsec-den.github.io/) Research Group at Penn State University. I'm working as a graduate research assistant with Dr. [Syed Rafiul Hussain](https://syed-rafiul-hussain.github.io/).
 
 My research interests include vulnerability discovery, fuzz testing, program analysis, and operating systems, with a particular emphasis on embedded systems security.
 
 ## News
+**[May '26]** Presented ["Breaking Through Baseband State: Iterative Symbolic Analysis + Stateful Fuzzing at Scale Uncovering OTA-Exploitable Baseband Vulnerabilities in NAS"](https://www.qualcomm.com/company/events/product-security-summit#presentations) at the Qualcomm Product Security Summit 2026.
+
+**[April '26]** ["LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software"](https://openreview.net/forum?id=B9nz1qMEhL&referrer=%5Bthe%20profile%20of%20Ali%20Ranjbar%5D(%2Fprofile%3Fid%3D~Ali_Ranjbar1)) has been accepted to the 64th Annual Meeting of the Association for Computational Linguistics.
+
 **[March '26]** ["Invariant-Guided Logical Testing of Open RAN Controllers"](https://www.usenix.org/conference/usenixsecurity26/presentation/yang-tianchang) has been accepted to the 35th USENIX Security Symposium.
 
 **[January '26]** Started my internship at Tesla as a Product Security Engineering Intern.
@@ -15,11 +19,11 @@ My research interests include vulnerability discovery, fuzz testing, program ana
 
 **[June '25]** Acknowledged in Google's Android security acknowledgements for disclosing [CVE-2025-26785](https://source.android.com/docs/security/overview/acknowledgements?authuser=1#june-2025); awarded a bounty for the report.
 
-**[May '25]** ["Uncovering 'NASty' 5G Baseband Vulnerabilities through Dependency-Aware Fuzzing"](https://www.blackhat.com/us-25/briefings/schedule/#uncovering-nasty-5g-baseband-vulnerabilities-through-dependency-aware-fuzzing-46485) has been accepted to Black Hat USA 2025.
+**[May '25]** ["Uncovering 'NASty' 5G Baseband Vulnerabilities through Dependency-Aware Fuzzing"](https://www.blackhat.com/us-25/briefings/schedule/#uncovering-nasty-5g-baseband-vulnerabilities-through-dependency-aware-fuzzing-46485) has been accepted to Black Hat USA 2025. [Presentation Video](https://www.youtube.com/watch?v=gXGIo5fy800)
 
 **[May '25]** Acknowledged in Samsung's Product Security Update Bulletins for disclosing [CVE-2025-26784](https://semiconductor.samsung.com/content/semiconductor/global/support/quality-support/product-security-updates/cve-2025-26784/), [CVE-2025-26785](https://semiconductor.samsung.com/content/semiconductor/global/support/quality-support/product-security-updates/cve-2025-26785/), and [CVE-2025-27891](https://semiconductor.samsung.com/content/semiconductor/global/support/quality-support/product-security-updates/cve-2025-27891/); awarded a bounty for the reports.
 
-**[May '25]** Presented ["Stateful Analysis and Fuzzing of Commercial Baseband Firmware"](https://www.computer.org/csdl/proceedings-article/sp/2025/223600b120/26EkFox5zyg) at the IEEE S&P 2025.
+**[May '25]** Presented ["Stateful Analysis and Fuzzing of Commercial Baseband Firmware"](https://www.youtube.com/watch?v=TeIJmPkJvWA) at the IEEE S&P 2025.
 
 **[March '25]** Acknowledged in Samsung's Product Security Update Bulletins for disclosing [CVE-2024-52923](https://semiconductor.samsung.com/content/semiconductor/global/support/quality-support/product-security-updates/cve-2024-52923/) and [CVE-2024-52924](https://semiconductor.samsung.com/content/semiconductor/global/support/quality-support/product-security-updates/cve-2024-52924/); awarded a bounty for the reports.
 
