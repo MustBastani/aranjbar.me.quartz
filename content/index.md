@@ -7,6 +7,8 @@ My name is Ali Ranjbar. I am a fifth-year Ph.D. candidate in the <u>Sy</u>stems
 My research interests include vulnerability discovery, fuzz testing, program analysis, and operating systems, with a particular emphasis on embedded systems security.
 
 ## News
+**[May '26]** ["VUPER: Verified ASN.1 UPER Parser"](https://www.sigsac.org/ccs/CCS2026/program/accepted-papers.html) has been accepted to the 33rd ACM Conference on Computer and Communications Security.
+
 **[May '26]** Presented ["Breaking Through Baseband State: Iterative Symbolic Analysis + Stateful Fuzzing at Scale Uncovering OTA-Exploitable Baseband Vulnerabilities in NAS"](https://www.qualcomm.com/company/events/product-security-summit#presentations) at the Qualcomm Product Security Summit 2026.
 
 **[April '26]** ["LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software"](https://openreview.net/forum?id=B9nz1qMEhL&referrer=%5Bthe%20profile%20of%20Ali%20Ranjbar%5D(%2Fprofile%3Fid%3D~Ali_Ranjbar1)) has been accepted to the 64th Annual Meeting of the Association for Computational Linguistics.
